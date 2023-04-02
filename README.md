@@ -66,6 +66,9 @@ predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
 ```
 
+
+
+
 ## Output:
 1.Profit prediction graph
 
